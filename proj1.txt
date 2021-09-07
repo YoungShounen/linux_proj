@@ -1,2 +1,3 @@
 change on terminal 
 change on github
+try pull function
